@@ -1,0 +1,7 @@
+.container {
+    flex: 0.62;
+    border-right: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    overflow-y: scroll;
+    box-sizing: border-box;
+}

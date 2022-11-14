@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.background__shape:hover {
+  color: #1976d2;
+  font-weight: bold;
+}
+
+.text {
+  margin-left: 20px;
+  font-size: 21px;
+}
